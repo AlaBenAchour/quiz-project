@@ -1,0 +1,12 @@
+[
+ {"id": 1, "theme": "Python", "question": "Quelle est la sortie de print(type(3)) ?", "options": ["<class 'int'>", "<class 'str'>", "<class 'float'>", "<class 'bool'>"], "reponse": "<class 'int'>"},
+ {"id": 2, "theme": "Python", "question": "Quel mot-clé définit une fonction ?", "options": ["func", "def", "function", "lambda"], "reponse": "def"},
+ {"id": 3, "theme": "Python", "question": "Une liste Python est immuable.", "options": ["Vrai", "Faux"], "reponse": "Faux"},
+ {"id": 4, "theme": "Python", "question": "Quelle méthode ajoute un élément à la fin d'une liste ?", "options": ["add", "push", "append", "insert"], "reponse": "append"},
+ {"id": 5, "theme": "Python", "question": "Quelle exception est levée par int('abc') ?", "options": ["TypeError", "ValueError", "KeyError", "IndexError"], "reponse": "ValueError"},
+ {"id": 6, "theme": "Histoire", "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?", "options": ["1492", "1620", "1776", "1945"], "reponse": "1492"},
+ {"id": 7, "theme": "Histoire", "question": "La Révolution française a commencé en 1789.", "options": ["Vrai", "Faux"], "reponse": "Vrai"},
+ {"id": 8, "theme": "Histoire", "question": "Qui était le premier empereur des Français ?", "options": ["Louis XIV", "Napoléon Ier", "Charlemagne", "De Gaulle"], "reponse": "Napoléon Ier"},
+ {"id": 9, "theme": "Géographie", "question": "Quelle est la capitale de la Tunisie ?", "options": ["Sfax", "Sousse", "Tunis", "Bizerte"], "reponse": "Tunis"},
+ {"id": 10, "theme": "Géographie", "question": "Quel est le plus long fleuve d'Afrique ?", "options": ["Le Congo", "Le Niger", "Le Nil", "Le Zambèze"], "reponse": "Le Nil"}
+]

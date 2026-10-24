@@ -1,0 +1,100 @@
+{
+  "admin": {
+    "mot_de_passe": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "scores": []
+  },
+  "ala": {
+    "mot_de_passe": "e56b2541cbeeb9808a59be56bf3816313540a17438bd952826c0436916fd1e78",
+    "role": "user",
+    "scores": [
+      {
+        "theme": "Géographie",
+        "score": 100,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Géographie",
+        "score": 100,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Géographie",
+        "score": 100,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Géographie",
+        "score": 100,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Culture générale",
+        "score": 0,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Culture générale",
+        "score": 20,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Géographie",
+        "score": 100,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Histoire",
+        "score": 33,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Géographie",
+        "score": 100,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Géographie",
+        "score": 50,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Géographie",
+        "score": 50,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Géographie",
+        "score": 50,
+        "date": "2026-10-23"
+      },
+      {
+        "theme": "Informatique",
+        "score": 20,
+        "date": "2026-10-23"
+      }
+    ]
+  },
+  "ali": {
+    "mot_de_passe": "d5083e34522626dd10e151c78c1ba502a3d67427b752c3fd43bd3b944072d1e7",
+    "role": "user",
+    "scores": [
+      {
+        "theme": "Géographie",
+        "score": 0,
+        "date": "2026-10-23"
+      }
+    ]
+  },
+  "rami": {
+    "mot_de_passe": "8f6f6503aa8be893a603a19301772e8de00e920e6dc4d85bc19d4aabf4f82460",
+    "role": "user",
+    "scores": [
+      {
+        "theme": "Python",
+        "score": 60,
+        "date": "2026-10-23"
+      }
+    ]
+  }
+}
